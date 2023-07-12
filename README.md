@@ -1,7 +1,5 @@
 # HospitalPro
 
-Sure, here is an essay on how a machine learning model can be used to detect breast cancer:
-
 Breast cancer is the most common cancer among women worldwide, and early detection is essential for successful treatment. However, traditional methods of breast cancer detection, such as mammograms, can be inaccurate and lead to false positives.
 
 Machine learning models can be used to analyze mammograms and identify potential cancer cells with greater accuracy than traditional methods. These models are trained on a large dataset of mammograms, and they are able to learn to identify the subtle patterns that are associated with cancer cells.
